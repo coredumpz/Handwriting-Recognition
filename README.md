@@ -18,6 +18,7 @@ with substantial and appropriate data. We decided that EMNIST dataset is more su
 
 https://youtu.be/-SBbm2xIFCM
 
+* For the detail information about the project you can check the Report.
 
 * There is a simple interface that you can interact with when you run the program. You can choose a picture or an document that you write by simply clicking the "Open Image To 
 Read" button. You can also save your result by clicking the "Save Ressult" button.
