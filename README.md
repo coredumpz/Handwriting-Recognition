@@ -14,7 +14,8 @@ communication. And on doing so minimizing the error that might happen on convers
 Our solution to this problem is constructing a model based on artificial intelligence that consist of convolutional neural network and computer vision.  The model must be trained 
 with substantial and appropriate data. We decided that EMNIST dataset is more suitable for our model with help of TensorFlow and Keras libraries. 
 
-* There is a simple interface that you can interact with when you run the program. You can choose a picture or an document that you write by simply clicking the "Open Image To Read" button. You can also save your result by clicking the "Save Ressult" button.
+* There is a simple interface that you can interact with when you run the program. You can choose a picture or an document that you write by simply clicking the "Open Image To 
+Read" button. You can also save your result by clicking the "Save Ressult" button.
 
 * INTERFACE : 
 
