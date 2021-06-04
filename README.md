@@ -1,7 +1,7 @@
 # Handwriting-Recognition
 
 * Problem
-* 
+
 In real life, usually understanding of someone’s handwriting might be a challenging problem and converting documents on papers to digital environment is necessary but it is not efficient without using a third-party software.
 
 * Aim of the Project
